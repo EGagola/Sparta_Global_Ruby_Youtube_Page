@@ -1,0 +1,30 @@
+body {
+  background-color: navajowhite;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+}
+.post{
+  display: inline;
+  padding: 2%;
+  flex-direction: column;
+  width: 33%;
+}
+.nav {
+  display: flex;
+  background-color: salmon;
+  text-align: center;
+  padding: 10px;
+  justify-content: space-around;
+}
+nav a {
+  color: black;
+  font-size: 16pt;
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+}
