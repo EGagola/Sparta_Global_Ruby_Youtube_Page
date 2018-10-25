@@ -15,16 +15,44 @@ body {
 }
 .nav {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   background-color: salmon;
   text-align: center;
   padding: 10px;
-  justify-content: space-around;
+  padding-right: 700px;
 }
 nav a {
   color: black;
   font-size: 16pt;
   font-weight: bold;
 }
+#logo {
+  width: 50px;
+  height: 50px;
+}
 h2 {
   text-align: center;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: salmon;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.footer button {
+  height:25px;
+}
+.video_text{
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.video {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
 }
