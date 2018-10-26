@@ -6,21 +6,22 @@ body {
   flex-direction: row;
   width: 100%;
   justify-content: center;
+  text-align: center;
 }
 .post{
   display: inline;
   padding: 2%;
   flex-direction: column;
   width: 33%;
+  text-align: center;
 }
 .nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   background-color: salmon;
   text-align: center;
   padding: 10px;
-  padding-right: 700px;
 }
 nav a {
   color: black;

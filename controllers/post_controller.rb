@@ -27,22 +27,22 @@ class PostController < Sinatra::Base
     },
     {
         id: 2,
-        title: "",
-        body: "Pommy ipsum rather air one's dirty linen mush scatterbrained bloody mary jammy git ask your mother if, pulled a right corker mush I could reet fancy a it's cracking flags Sonic Screwdriver we'll be 'avin less of that bit of a Jack the lad. Daft cow marvelous wind up and a tad and well fit, odds and sods get away with ya cottage pie nosh by 'eck love, god save the queen teacakes completely starkers off t'pub ey up. ",
+        title: "Jemaine Clement - Shiny",
+        body: "Mauri and Moana go to the land of demons in search of his hook, knowing it to be in the lair of a gaint crab.",
         src: "https://www.fillmurray.com/500/360",
         embed_code: "93lrosBEW-Q"
     },
     {
       id: 3,
-      title: "Video 4",
-      body: " Yorkshire pudding it's the bees knees bit of alright brainbox hard cheese old boy sweets guinness, two weeks on't trot for sooth well fit a cracking apple and pears rambunctious, put me soaps back on done up like a kipper biscuits a reet bobbydazzler crisps. A comely wench every fortnight a tad I bid you good day chav old chap a week on Sunday, chippy bit of a Jack the lad you mean it ain't me noggin' doolally.",
+      title: "Moana - Song of the Ancestors",
+      body: "Moana discovers her true self during a dark moment in her journey.",
       src: "https://www.fillmurray.com/500/300",
       embed_code: "HEiSF8HpyDg"
     },
     {
       id: 4,
-      title: "Video 5",
-      body: " Yorkshire pudding it's the bees knees bit of alright brainbox hard cheese old boy sweets guinness, two weeks on't trot for sooth well fit a cracking apple and pears rambunctious, put me soaps back on done up like a kipper biscuits a reet bobbydazzler crisps. A comely wench every fortnight a tad I bid you good day chav old chap a week on Sunday, chippy bit of a Jack the lad you mean it ain't me noggin' doolally.",
+      title: "Moana - Where You Are",
+      body: "Moana's parents explain the lifestyle of their island tribe and the role she will play as daughter of the chief.",
       src: "https://www.fillmurray.com/500/300",
       embed_code: "pLw2EfOmE7Y"
     }
