@@ -17,11 +17,13 @@ body {
 }
 .nav {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   background-color: salmon;
   text-align: center;
   padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 nav a {
   color: black;
@@ -31,6 +33,9 @@ nav a {
 #logo {
   width: 50px;
   height: 50px;
+}
+h1 {
+  text-align: center;
 }
 h2 {
   text-align: center;
